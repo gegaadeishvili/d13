@@ -22,8 +22,8 @@ function calculateYearsUntilRetirement(name, age, retirementAge) {
     } else {
       console.log(`${name} is already retired.`);
     }
-  }
-  
+  } 
+  git push --set-upstream origin d13
 
   calculateYearsUntilRetirement("gega", 35, 65);
   calculateYearsUntilRetirement("nika", 50, 60);
